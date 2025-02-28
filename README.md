@@ -1,1 +1,1 @@
-# this is my proffessional information
+# this is git and github
